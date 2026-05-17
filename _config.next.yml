@@ -1,5 +1,5 @@
 footer:
-    since: 2024
+    since: 2025
     icon:
         name: fa fa-code
         animated: false
@@ -22,7 +22,7 @@ sidebar:
     offsetTop: 12
 
 social:
-    GitHub: https://github.com/ZF-Clark || fab fa-github
+    GitHub: https://github.com/zfclark || fab fa-github
 
 social_icons:
     enable: true
@@ -61,7 +61,7 @@ bookmark:
 
 github_banner:
     enable: true
-    permalink: https://github.com/ZF-Clark
+    permalink: https://github.com/zfclark
     title: Follow me on GitHub
 
 font:
