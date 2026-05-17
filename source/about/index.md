@@ -24,7 +24,7 @@ comments: false
 
 ### 📫 联系方式
 
-- GitHub: [ZF-Clark](https://github.com/ZF-Clark)
+- GitHub: [ZF-Clark](https://github.com/zfclark)
 
 ---
 

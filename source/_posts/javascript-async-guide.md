@@ -1,10 +1,9 @@
-***
-
+---
 title: JavaScript异步编程完全指南
 date: 2026-05-15 10:00:00
 categories: 前端开发
-tags: \[JavaScript, 异步编程, Promise, async/await]
------------------------------------------------
+tags: [JavaScript, 异步编程, Promise, async/await]
+---
 
 JavaScript作为一门单线程语言，异步编程是其核心特性之一。本文将深入探讨JavaScript异步编程的演进历程，从回调函数到Promise，再到async/await，帮助你全面掌握异步编程技巧。
 
