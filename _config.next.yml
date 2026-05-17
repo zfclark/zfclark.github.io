@@ -29,8 +29,10 @@ social_icons:
     icons_only: false
     transition: false
 
+favicon: /_data/openclaw-logo.svg
+
 avatar:
-    url: /images/avatar.png
+    url: /_data/avatar.jpg
     rounded: true
     rotated: false
 
