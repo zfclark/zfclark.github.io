@@ -5,15 +5,15 @@
 # Site
 title: ZF-Clark's Blog
 subtitle: "热爱编程，享受创造"
-description: "ZF-Clark的个人技术博客，分享前端开发、编程技巧与技术心得"
-keywords: 前端开发,JavaScript,Web开发,编程,技术博客
+description: "霖海的个人技术博客，分享前端开发、编程技巧与技术心得"
+keywords: 软件开发,CPP,Java,后端开发,编程,技术博客
 author: zfclark
 language: zh-CN
 timezone: "Asia/Shanghai"
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://blog.zfclark.qzz.io
+url: https://zfclark.qzz.io
 permalink: posts/:title/
 permalink_defaults:
 pretty_urls:
