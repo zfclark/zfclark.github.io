@@ -24,5 +24,9 @@
     "hexo-theme-kratos-rebirth": "^3.0.1",
     "hexo-theme-landscape": "^1.0.0",
     "hexo-theme-next": "^8.29.0"
+  },
+  "allowScripts": {
+    "hexo-util@3.3.0": true,
+    "hexo-util@4.0.0": true
   }
 }
